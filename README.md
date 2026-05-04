@@ -89,12 +89,4 @@ npm run dev
 
 Your application will now be running at `http://localhost:5173`!
 
----
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/rajeshjha2000/taskManager-Assignment/issues).
-
----
-
-*Designed and built with ❤️ to make task management a beautiful experience.*
